@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="txtSaludo">Suma</string>
+    <string name="btnSaludar">Sumar</string>
+    <string name="txtN1">Num 1</string>
+    <string name="txtN2">Num 2</string>
+    <string name="txtResultado">Resultado</string>
+</resources>
